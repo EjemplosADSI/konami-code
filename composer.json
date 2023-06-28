@@ -1,0 +1,6 @@
+{
+    "name":  "daom89/konamicode",
+    "require": {
+        "zenithies/php-toolkit-read-key": "^1.0"
+    }
+}
