@@ -4,7 +4,7 @@ PHP por defecto no captura el evento KeyPress nativamente para ello usaremos el 
 
  1. Tener instalado una version igual o superior a la 7 de PHP
  2. Clonar este repositorio: 
-	 2. git clone https://github.com/EjemplosADSI/konami-code.git
+	git clone https://github.com/EjemplosADSI/konami-code.git
  3. Ejecutar composer install
  4. En php.ini habilitar extension php_com_dotnet
 	 4. extension=php_com_dotnet.dll
